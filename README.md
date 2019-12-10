@@ -6,10 +6,10 @@ Follow this steps to run the software.
 
 1. install and Open xampp/wampp
 
-2. Copy the project folder 'GradeCity-master' to htdocs in xampp or www in wamp
+2. Copy the project folder 'GradeCity' to htdocs in xampp or www in wamp
 
-3. Open the phpmyadmin and import the db backup from 'GradeCity-master' -> 'database'
+3. Open the phpmyadmin and import the db backup from 'GradeCity' -> 'database' -> '127_0_0_1.sql'
 
-4. Open your browser and navigate to localhost/GradeCity-master/sign-in.php
+4. Open your browser and navigate to 'localhost/GradeCity'
 
 5. Enter the credentials admin/admin for username and password
