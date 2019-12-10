@@ -1,0 +1,185 @@
+.navbar-bg {
+  /* background-image: url(../img/dots.svg);
+  background-repeat: no-repeat;
+  background-position: -120px 110%;
+  background-size: 230px; */
+}
+.header-title {
+  font-weight: 600;
+}
+a.premium-btn {
+  background: linear-gradient(45deg, #714007, #bb8e5b, #714007);
+  border: 0px;
+  color: white;
+}
+a.premium-btn :hover {
+  color: white !important;
+}
+.mv-list {
+  margin-top: 30px;
+}
+.cancel-ap {
+  position: absolute;
+  bottom: 45px;
+}
+.cancel-wid {
+  width: 80%;
+}
+.bank-card {
+  border-radius: 4px;
+  padding: 3px;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.01), 0 3px 3px rgba(0, 0, 0, 0.01);
+}
+
+.bank-primm {
+  background: url(../img/bookings/cardbg-ii.svg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.bank-default {
+  background: url(../img/bookings/cardbg.svg);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.card-design {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  border-radius: 400px;
+  left: -35px;
+  background: #0000000d;
+}
+
+.card-type {
+  width: 50px;
+  float: right;
+  margin-right: 32px;
+}
+
+.card-expires {
+  text-transform: uppercase;
+  padding-top: 10px;
+  color: #ffffff94;
+  font-size: 12px;
+  letter-spacing: 1.4px;
+}
+
+.card-links {
+  margin-bottom: 150px;
+}
+
+.card-links a {
+  padding: 10px 10px;
+}
+
+.card-links a.active {
+  color: #74c947;
+  border-bottom: 2px solid #74c947;
+}
+
+.bank-custom {
+  background: #dfe5ef;
+}
+
+.mv-card-date {
+  margin-top: 27px;
+}
+.slider-padding div {
+  margin: 5px;
+}
+.text-black {
+  color: black;
+}
+
+.dashboard-creative .bg-vibrant {
+  background-image: linear-gradient(
+      to bottom right,
+      rgba(0, 0, 0, 0.79),
+      rgba(0, 0, 0, 0.52)
+    ),
+    url(../img/covers/sidebar-cover.jpg) !important;
+}
+
+.bg-vibrant {
+  background-image: linear-gradient(to bottom right, #04652ede, #00ab4a99),
+    url(../img/covers/gradd.jpeg) !important;
+}
+
+.card-prem {
+  background: url(../img/bookings/prem-bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+.bank-action {
+  position: absolute;
+  bottom: 10px;
+  right: 9px;
+}
+
+.top-profile {
+  height: 200px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+.photos-div {
+  position: relative;
+}
+.photos-div a {
+  position: absolute;
+  right: 15px;
+  top: 16px;
+}
+.premiumcard {
+  border-left: 4px solid #bf9467 !important;
+}
+.premcolor {
+  color: #bf9467 !important;
+}
+a.premium-btn:hover {
+  color: white;
+}
+.codepromo {
+  font-size: 4em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 34px;
+}
+.btn,
+.card,
+.form-control,
+select.form-control {
+  border-radius: 0px !important;
+}
+.btn-rounded-circle {
+  border-radius: 50%;
+}
+/* Mobile Query */
+@media (max-width: 576px) {
+  .navbar-bg {
+    background-image: none;
+  }
+}
+@media (min-width: 768px) {
+  .navbar-vertical.navbar-expand-md .navbar-brand-img {
+    max-height: 2rem !important;
+    margin-bottom: 50px;
+  }
+  .navbar-vertical.navbar-expand-md .navbar-nav .nav-link {
+    padding: 1rem 1.5rem !important;
+  }
+  .navbar-vertical.navbar-expand-md .navbar-nav .nav-link.active:before {
+    top: 0.5rem !important;
+    right: auto !important;
+    bottom: 0.5rem !important;
+    right: 0 !important;
+    border-bottom: 0 !important;
+    border-left: 0px !important;
+    border-right: 3px solid #81edb0 !important;
+  }
+}

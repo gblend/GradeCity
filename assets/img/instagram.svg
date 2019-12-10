@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62.65" height="62.649" viewBox="0 0 62.65 62.649">
+  <defs>
+    <filter id="Rectangle_76" x="0" y="0" width="62.65" height="62.649" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.008" x2="0.5" y2="0.998" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e09b3d"/>
+      <stop offset="0.3" stop-color="#c74c4d"/>
+      <stop offset="0.6" stop-color="#c21975"/>
+      <stop offset="1" stop-color="#7024c4"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="-0.451" y2="1.462" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" y1="-1.396" y2="6.586" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_374" data-name="Group 374" transform="translate(9 9)">
+    <g id="Group_232" data-name="Group 232" transform="translate(0 0)">
+      <g transform="matrix(1, 0, 0, 1, -9, -9)" filter="url(#Rectangle_76)">
+        <rect id="Rectangle_76-2" data-name="Rectangle 76" width="44.65" height="44.649" rx="22.325" transform="translate(9 9)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="instagram_2_" data-name="instagram (2)" transform="translate(12.405 12.435)">
+      <path id="Path_74" data-name="Path 74" d="M14.287,0H6.062A6.069,6.069,0,0,0,0,6.062v8.225A6.069,6.069,0,0,0,6.062,20.35h8.225a6.069,6.069,0,0,0,6.062-6.062V6.062A6.069,6.069,0,0,0,14.287,0ZM18.3,14.287A4.015,4.015,0,0,1,14.287,18.3H6.062a4.015,4.015,0,0,1-4.015-4.015V6.062A4.015,4.015,0,0,1,6.062,2.047h8.225A4.015,4.015,0,0,1,18.3,6.062v8.225Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      <path id="Path_75" data-name="Path 75" d="M138.263,133a5.263,5.263,0,1,0,5.263,5.263A5.269,5.269,0,0,0,138.263,133Zm0,8.479a3.216,3.216,0,1,1,3.216-3.216A3.216,3.216,0,0,1,138.263,141.479Z" transform="translate(-128.088 -128.088)" fill="url(#linear-gradient-2)"/>
+      <ellipse id="Ellipse_575" data-name="Ellipse 575" cx="1.261" cy="1.261" rx="1.261" ry="1.261" transform="translate(14.187 3.69)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

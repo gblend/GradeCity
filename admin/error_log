@@ -1,0 +1,2 @@
+[10-Dec-2019 01:15:15 UTC] PHP Notice:  Undefined variable: userType in /home2/kashicom/public_html/grading/admin/includes/functions.php on line 93
+[10-Dec-2019 01:15:15 UTC] PHP Notice:  Undefined index: firstname in /home2/kashicom/public_html/grading/admin/results.php on line 348

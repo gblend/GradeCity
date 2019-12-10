@@ -1,0 +1,9 @@
+[09-Dec-2019 20:01:15 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kashicom/public_html/grading/mail/PHPMailerAutoload.php on line 45
+[09-Dec-2019 20:01:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/kashicom/public_html/grading/mail/reset-mail.php on line 11
+[09-Dec-2019 20:01:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home2/kashicom/public_html/grading/mail/reset-mail.php on line 39
+[09-Dec-2019 20:01:16 UTC] PHP Warning:  main(): Property access is not allowed yet in /home2/kashicom/public_html/grading/mail/reset-mail.php on line 40
+[09-Dec-2019 20:03:47 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kashicom/public_html/grading/mail/PHPMailerAutoload.php on line 45
+[09-Dec-2019 20:03:54 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kashicom/public_html/grading/mail/PHPMailerAutoload.php on line 45
+[09-Dec-2019 21:17:14 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kashicom/public_html/grading/mail/PHPMailerAutoload.php on line 45
+[09-Dec-2019 21:17:22 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kashicom/public_html/grading/mail/PHPMailerAutoload.php on line 45
+[10-Dec-2019 01:38:44 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home2/kashicom/public_html/grading/mail/PHPMailerAutoload.php on line 45

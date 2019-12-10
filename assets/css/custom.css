@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,700&display=swap');
+body,
+html {
+  font-family: 'Rubik', sans-serif !important;
+}
+
+.form-logo {
+  width: 200px;
+  margin-bottom: 31px;
+  text-align: center;
+}
+
+.card-slim {
+  padding: 1rem;
+}
+
+.cardunsel span {
+  color: black;
+}
+
+.cardunsel-active {
+  background: #f18e2d;
+}
+
+.cardunsel-active span {
+  color: white;
+}
+.cardunsel-active h6 {
+  color: #ffffff80 !important;
+}
+.form-header {
+  margin-bottom: 65px;
+}
+
+.link-back {
+  font-size: 18px;
+  font-weight: lighter;
+  color: #f18e2d;
+  float: left;
+  margin-top: 7px;
+}
+
+.full-width {
+  width: 100%;
+}
+.dots-bg {
+  position: absolute;
+  bottom: 0px;
+  left: -131px;
+  width: 300px;
+}
+
+.modalcard-height {
+  max-height: 473px !important;
+}
+
+.text-color {
+  color: #f18e2d;
+}
+.addiconn {
+  display: inline-block;
+  float: right;
+}
+
+.error-head {
+  font-size: 10em;
+  color: black;
+  text-shadow: 4px 3px #ffffff, 8px 8px #f18e2d73;
+}
+
+.logouticon {
+  height: 60px;
+  background: #f18f2d;
+  width: 60px;
+  color: white;
+  text-align: center;
+  font-size: 23px;
+  border-radius: 44px;
+  line-height: 2.5;
+  position: absolute;
+  right: 30px;
+  top: 30px;
+}
+.logouticon:hover {
+  background: #f18f2d;
+  color: white;
+}
+
+.senddispute {
+  border: 1px solid gainsboro;
+  padding: 23px 23px;
+  border-radius: 6px;
+  margin-top: 43px;
+}
+
+.promocode {
+  padding: 15px 23px;
+  border-radius: 5px;
+}
+.promoInput {
+  display: none;
+}
